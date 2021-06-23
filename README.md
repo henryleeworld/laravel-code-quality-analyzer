@@ -24,5 +24,5 @@ $ php artisan insights
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/FCKIYNx.png)
+![](https://i.imgur.com/CC7dS0n.png)
 > 進行即時質量檢查，使程式碼可靠、簡潔且鬆散耦合
