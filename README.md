@@ -1,4 +1,4 @@
-# Laravel 8 程式品質分析器
+# Laravel 9 程式品質分析器
 
 引入 nunomaduro 的 phpinsights 套件來擴增分析程式品質，可以很簡單的方式從終端機直接進行分析。
 
@@ -24,5 +24,5 @@ $ php artisan insights
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/CC7dS0n.png)
+![](https://i.imgur.com/Za0OJXl.png)
 > 進行即時質量檢查，使程式碼可靠、簡潔且鬆散耦合
